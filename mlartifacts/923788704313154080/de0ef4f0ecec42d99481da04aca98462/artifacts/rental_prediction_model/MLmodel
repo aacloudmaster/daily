@@ -1,0 +1,20 @@
+artifact_path: rental_prediction_model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.0
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.2
+mlflow_version: 2.18.0
+model_size_bytes: 436
+model_uuid: 879f7f362766436e89be0dbe1a172a25
+run_id: de0ef4f0ecec42d99481da04aca98462
+utc_time_created: '2024-12-07 03:28:57.750893'

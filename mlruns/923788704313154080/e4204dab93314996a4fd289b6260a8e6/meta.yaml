@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/923788704313154080/e4204dab93314996a4fd289b6260a8e6/artifacts
+end_time: 1733712999834
+entry_point_name: ''
+experiment_id: '923788704313154080'
+lifecycle_stage: active
+run_id: e4204dab93314996a4fd289b6260a8e6
+run_name: inquisitive-fox-534
+run_uuid: e4204dab93314996a4fd289b6260a8e6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733712988202
+status: 3
+tags: []
+user_id: HP

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/923788704313154080/aa9efa7482eb42daa353b29a4454ecb5/artifacts
+end_time: 1734119843427
+entry_point_name: ''
+experiment_id: '923788704313154080'
+lifecycle_stage: active
+run_id: aa9efa7482eb42daa353b29a4454ecb5
+run_name: suave-frog-812
+run_uuid: aa9efa7482eb42daa353b29a4454ecb5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734119832898
+status: 3
+tags: []
+user_id: Lenovo

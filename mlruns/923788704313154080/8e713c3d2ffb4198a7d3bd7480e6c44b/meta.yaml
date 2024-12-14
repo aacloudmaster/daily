@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/923788704313154080/8e713c3d2ffb4198a7d3bd7480e6c44b/artifacts
+end_time: 1734163797712
+entry_point_name: ''
+experiment_id: '923788704313154080'
+lifecycle_stage: active
+run_id: 8e713c3d2ffb4198a7d3bd7480e6c44b
+run_name: abrasive-rat-133
+run_uuid: 8e713c3d2ffb4198a7d3bd7480e6c44b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734163791714
+status: 3
+tags: []
+user_id: Lenovo

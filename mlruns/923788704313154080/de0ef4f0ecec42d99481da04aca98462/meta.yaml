@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/923788704313154080/de0ef4f0ecec42d99481da04aca98462/artifacts
+end_time: 1733542143595
+entry_point_name: ''
+experiment_id: '923788704313154080'
+lifecycle_stage: active
+run_id: de0ef4f0ecec42d99481da04aca98462
+run_name: funny-mouse-367
+run_uuid: de0ef4f0ecec42d99481da04aca98462
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733542137648
+status: 3
+tags: []
+user_id: HP

@@ -1,0 +1,9 @@
+numpy
+pandas
+logging
+boto3
+scikit-learn
+Flask
+scikit-learn
+fsspec
+s3fs==2024.10.0

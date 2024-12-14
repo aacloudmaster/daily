@@ -1,0 +1,21 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: mlapp-deployment
+  labels:
+    app: mlapp
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: mlapp
+  template:
+    metadata:
+      labels:
+        app: mlapp
+    spec:
+      containers:
+      - name: mlapp-container
+        image: ssadcloud/mlapp:latest
+        ports:
+        - containerPort: 5000
